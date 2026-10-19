@@ -1,0 +1,2 @@
+Dự án thực hành Git cơ bản.
+Thực hiện các thao tác: init, stage, commit, checkout, reset, clone, pull, push và revert.
