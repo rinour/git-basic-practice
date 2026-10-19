@@ -1,0 +1,5 @@
+Ghi chú học Git:
+1. Working Directory: Nơi chứa các file thực tế đang làm việc.
+2. Staging Area: Nơi chuẩn bị các thay đổi trước khi commit.
+3. Repository: Nơi lưu trữ lịch sử các commit vĩnh viễn.
+4. Commit history: Lưu vết đầy đủ các thay đổi theo thời gian.
