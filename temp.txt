@@ -1,1 +1,1 @@
-Thử nghiệm git reset soft: file tạm thời.
+Thử nghiệm git reset mixed: cập nhật dòng mới trong temp.txt.
